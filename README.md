@@ -5,6 +5,8 @@ https://github.com/user-attachments/assets/d7ef67b5-88e9-45e2-9ce7-539b5f59bc5b
 This bot automates math operations using dynamic input dialogs and conditional logic to ensure 100% accuracy.
 
 
+-----------------------------------------------------------------------------------------------------------
+
 
 ## 2. Notepad Data Entry (UI Automation)
 
